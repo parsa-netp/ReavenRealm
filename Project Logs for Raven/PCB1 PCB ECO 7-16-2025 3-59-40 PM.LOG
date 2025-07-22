@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=P\G\O\O\D\ Pin=D6-1
+Removed Pin From Net: NetName=C\H\G\ Pin=D7-1
+Removed Member From Class: ClassName=Power Member=D6
+Removed Member From Class: ClassName=Power Member=D7
+Add component: Footprint Not Found CAP_0805
+Add component: Footprint Not Found CAP_0805
+Added Component: Designator=LD1(LED_DIALIGHT_598-8010-107F)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM MR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bonding"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "1/9/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\LED_DIALIGHT_598-8010-107F.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "1/9/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "DIALIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "598-8010-107F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SMT Red LED, Body 1.6x0.8mm, 0603 Case,  DIALIGHT 598 Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Micro SMD Red Led, 598 Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LED_DIALIGHT_598-8010-107F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component: Footprint Not Found 0603_R
+Add component: Footprint Not Found 0603_R
+Add component: Footprint Not Found 0603_R
+Add Pin To Net: Unknown Pin: Pin C21-1
+Add Pin To Net: Unknown Pin: Pin C21-2
+Add Pin To Net: Unknown Pin: Pin C27-1
+Add Pin To Net: Unknown Pin: Pin C27-2
+Added Pin To Net: NetName=C\H\G\ Pin=LD1-1
+Add Pin To Net: Unknown Pin: Pin R14-2
+Add Pin To Net: Unknown Pin: Pin R27-1
+Add Pin To Net: Unknown Pin: Pin R27-2
+Add Pin To Net: Unknown Pin: Pin R28-1
+Add Pin To Net: Unknown Pin: Pin R28-2
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=+3V3 Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-40
+Added Pin To Net: NetName=GND Pin=U2-41_1
+Added Pin To Net: NetName=GND Pin=U2-41_2
+Added Pin To Net: NetName=GND Pin=U2-41_3
+Added Pin To Net: NetName=GND Pin=U2-41_4
+Added Pin To Net: NetName=GND Pin=U2-41_5
+Added Pin To Net: NetName=GND Pin=U2-41_6
+Added Pin To Net: NetName=GND Pin=U2-41_7
+Added Pin To Net: NetName=GND Pin=U2-41_8
+Added Pin To Net: NetName=GND Pin=U2-41_9
+Added Pin To Net: NetName=NetLD1_2 Pin=LD1-2
+Added Net: Name=NetLD1_2
+Add Class Member: Failed to add class member : Component C21 4.7uf
+Add Class Member: Failed to add class member : Component C27 22uf
+Added Member To Class: ClassName=Power Member=Component LD1 Red
+Add Class Member: Failed to add class member : Component R14 1.5k
+Add Class Member: Failed to add class member : Component R27 1.18k
+Add Class Member: Failed to add class member : Component R28 1.18k
