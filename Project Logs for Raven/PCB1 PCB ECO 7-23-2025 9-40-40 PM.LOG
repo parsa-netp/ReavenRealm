@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=+4V4 Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Member From Class: ClassName=SIM7080G Member=C10
+Removed Member From Class: ClassName=SIM7080G Member=D2
+Removed Member From Class: ClassName=MCU Member=D4
+Add component: Footprint Not Found 0603_R
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Added Member To Class: ClassName=MCU Member=Component D3 SMAJ12A
+Added Member To Class: ClassName=SIM7080G Member=Component D5 SMAJ5.0CA
+Added Member To Class: ClassName=SIM7080G Member=Component D7 SMAJ5.0CA
+Added Member To Class: ClassName=SIM7080G Member=Component D8 BZA462A
+Add Class Member: Failed to add class member : Component R1 1.5k

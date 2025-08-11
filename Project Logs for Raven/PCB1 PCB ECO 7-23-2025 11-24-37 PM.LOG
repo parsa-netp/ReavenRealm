@@ -1,0 +1,66 @@
+Change Component Footprint: Designator=D6 Old Footprint=DIOM5226X262N New Footprint=EATON_0603ESDA-MLP
+Change Component Footprint: Designator=D7 Old Footprint=DIOM5226X262N New Footprint=EATON_0603ESDA-MLP
+Change Component Comment : Designator=D6 Old Comment=SMAJ5.0CA New Comment=0603ESDA-MLP1
+Change Component Comment : Designator=D7 Old Comment=SMAJ5.0CA New Comment=0603ESDA-MLP1
+Change Component Designator: OldDesignator=C11 NewDesignator=C10
+Change Component Designator: OldDesignator=C12 NewDesignator=C11
+Change Component Designator: OldDesignator=C13 NewDesignator=C12
+Change Component Designator: OldDesignator=C14 NewDesignator=C13
+Change Component Designator: OldDesignator=C15 NewDesignator=C14
+Change Component Designator: OldDesignator=C16 NewDesignator=C15
+Change Component Designator: OldDesignator=C17 NewDesignator=C16
+Change Component Designator: OldDesignator=C18 NewDesignator=C17
+Change Component Designator: OldDesignator=C19 NewDesignator=C18
+Change Component Designator: OldDesignator=C20 NewDesignator=C19
+Change component parameters: Designator = "D6" ("D6"); Footprint = "DIOM5226X262N"; UniqueID = "\PIXSMPJQ" ("\PIXSMPJQ")
+Change component parameters (AddParameter): Name = "Author"; Value = "CERN DEM HF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Bonding"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeight"; Value = "0.38mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CreateDate"; Value = "9/21/2022"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "0603ESDA-MLP1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\0603ESDA-MLP1.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "9/21/2022"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "EATON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0603ESDA-MLP1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "0603, 2-Leads, Body 1.1mm L X 0.53mm W X 0.44mm H body, IPC Medium Density"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "0.05pF 8kV Bidirectional ESD Voltage Suppressor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "0603ESDA-MLP1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "8kV"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D7" ("D7"); Footprint = "DIOM5226X262N"; UniqueID = "\OGWRBQHL" ("\OGWRBQHL")
+Change component parameters (AddParameter): Name = "Author"; Value = "CERN DEM HF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Bonding"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeight"; Value = "0.38mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CreateDate"; Value = "9/21/2022"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "0603ESDA-MLP1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\0603ESDA-MLP1.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "9/21/2022"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "EATON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0603ESDA-MLP1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "0603, 2-Leads, Body 1.1mm L X 0.53mm W X 0.44mm H body, IPC Medium Density"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "0.05pF 8kV Bidirectional ESD Voltage Suppressor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "0603ESDA-MLP1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "8kV"; VariantName = "[No Variations]"
+Add component: Footprint Not Found 0603_R
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Change Net Name : Old Net Name=NetC15_1 New Net Name=NetC14_1
+Change Net Name : Old Net Name=NetC15_2 New Net Name=NetC14_2
+Change Net Name : Old Net Name=NetC18_1 New Net Name=NetC17_1
+Change Net Name : Old Net Name=NetC18_2 New Net Name=NetC17_2
+Add Class Member: Failed to add class member : Component R1 1.5k

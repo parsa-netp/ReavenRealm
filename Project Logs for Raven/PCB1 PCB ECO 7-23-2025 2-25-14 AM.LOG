@@ -1,0 +1,199 @@
+Change Component Designator: OldDesignator=C2 NewDesignator=C5
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Change Component Designator: OldDesignator=C4 NewDesignator=C6
+Change Component Designator: OldDesignator=C5 NewDesignator=C7
+Change Component Designator: OldDesignator=C6 NewDesignator=C8
+Change Component Designator: OldDesignator=C7 NewDesignator=C9
+Change Component Designator: OldDesignator=C8 NewDesignator=C10
+Change Component Designator: OldDesignator=C9 NewDesignator=C11
+Change Component Designator: OldDesignator=C10 NewDesignator=C14
+Change Component Designator: OldDesignator=C11 NewDesignator=C15
+Change Component Designator: OldDesignator=C12 NewDesignator=C16
+Change Component Designator: OldDesignator=C13 NewDesignator=C17
+Change Component Designator: OldDesignator=C14 NewDesignator=C18
+Change Component Designator: OldDesignator=C15 NewDesignator=C19
+Change Component Designator: OldDesignator=C16 NewDesignator=C12
+Change Component Designator: OldDesignator=C17 NewDesignator=C13
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Change Component Designator: OldDesignator=R1 NewDesignator=R8
+Change Component Designator: OldDesignator=R2 NewDesignator=R9
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Change Component Designator: OldDesignator=R7 NewDesignator=R12
+Change Component Designator: OldDesignator=R8 NewDesignator=R13
+Change Component Designator: OldDesignator=R9 NewDesignator=R14
+Change Component Designator: OldDesignator=R10 NewDesignator=R15
+Change Component Designator: OldDesignator=R11 NewDesignator=R16
+Change Component Designator: OldDesignator=R12 NewDesignator=R17
+Change Component Designator: OldDesignator=R13 NewDesignator=R18
+Change Component Designator: OldDesignator=R15 NewDesignator=R19
+Change Component Designator: OldDesignator=R16 NewDesignator=R20
+Change Component Designator: OldDesignator=R17 NewDesignator=R23
+Change Component Designator: OldDesignator=R18 NewDesignator=R21
+Change Component Designator: OldDesignator=R19 NewDesignator=R22
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Add component: Footprint Not Found CAP_0805
+Add component: Footprint Not Found CAP_0805
+Added Component: Designator=C?(CAPC1608X90N)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "7/1/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\CC0603_X5R_TDK_CGA(Up to 75V).pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "7/1/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CGA3E2X5R1E104M080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "SMD Multilayer Chip Ceramic Capacitor (Automotive Grade)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0603_100NF_25V_20%_X5R_TDK_CGA3E2X5R1E104M080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SOT95P275X110-6N)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bonding"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "SOT23-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "11/9/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "BZA462A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\BZA462A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "11/9/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP SEMICONDUCTORS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BZA462A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SOT, 0.95mm Pitch; 6 Pin, 1.50mm W X 2.90mm L X 1.10mm H body, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Quadruple ESD Transient Voltage Suppressor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BZA462A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "24W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "15kV"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DFN100x60x40-3N)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bonding"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "DFN3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "12/17/2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ESD122DMX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\ESD122DMX.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "12/17/2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TEXAS INSTRUMENTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ESD122DMX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DFN; 3 Pin, 1.00mm L X 0.60mm W X 0.40mm H, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "2 Channel 17KV ESD Protection Diode for USB Type-C and HDMI 2.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ESD122DMX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "5.1V"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIOM5127X229N)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bonding"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "DO-214AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "2.29mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "11/17/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SMAJ12A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\SMAJ12A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "11/17/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "VISHAY GENERAL SEMICONDUCTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SMAJ12A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DO-214-AC/SMA Diode, Molded Body; 5.10mm L X 2.67mm W X 2.29mm H, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Surface Mount TRANSZORB® Uni-directional Transient Voltage Suppressors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMAJ12A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "20.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "12V"; VariantName = "[No Variations]"
+Add component: Footprint Not Found 0603_R
+Add component: Footprint Not Found 0603_R
+Add component: Footprint Not Found 0603_R
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Added Pin To Net: NetName=+3V3 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=+3V3 Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=SIMVDD Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=USB.Data.- Pin=D?-2
+Added Pin To Net: NetName=SIMData Pin=D?-3
+Added Pin To Net: NetName=USB.Data.+ Pin=D?-3
+Added Pin To Net: NetName=SIMCLK Pin=D?-4
+Added Pin To Net: NetName=GND Pin=D?-5
+Added Pin To Net: NetName=SIMRST Pin=D?-6
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Added Pin To Net: NetName=+3V3 Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U5-11
+Added Pin To Net: NetName=GND Pin=U5-21_1
+Added Pin To Net: NetName=GND Pin=U5-21_2
+Added Pin To Net: NetName=GND Pin=U5-21_3
+Added Pin To Net: NetName=GND Pin=U5-21_4
+Added Pin To Net: NetName=GND Pin=U5-21
+Change Net Name : Old Net Name=NetC10_1 New Net Name=NetC14_1
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NetC14_2
+Change Net Name : Old Net Name=NetC13_1 New Net Name=NetC17_1
+Change Net Name : Old Net Name=NetC13_2 New Net Name=NetC17_2
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR2_1
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR4_1
+Change Net Name : Old Net Name=NetR6_2 New Net Name=NetR5_2
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetR14_1
+Change Net Name : Old Net Name=NetR9_2 New Net Name=NetR14_2
+Change Net Name : Old Net Name=NetR11_2 New Net Name=NetR16_2
+Change Net Name : Old Net Name=NetR12_2 New Net Name=NetR17_2
+Change Net Name : Old Net Name=NetR18_1 New Net Name=NetR21_1
+Change Net Name : Old Net Name=NetR19_1 New Net Name=NetR22_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR10_1
+Change Net Name : Old Net Name=NetU2_17 New Net Name=NetU3_17
+Change Net Name : Old Net Name=NetU2_18 New Net Name=NetU3_18
+Change Net Name : Old Net Name=NetU2_19 New Net Name=NetU3_19
+Change Net Name : Old Net Name=NetU2_20 New Net Name=NetU3_20
+Change Net Name : Old Net Name=NetU2_22 New Net Name=NetU3_22
+Change Net Name : Old Net Name=NetU2_25 New Net Name=NetU3_25
+Added Pin To Net: NetName=NetR6_2 Pin=U2-2
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=U3-14
+Added Net: Name=NetR11_1
+Add Class Member: Failed to add class member : Component C4 22uf
+Added Member To Class: ClassName=Power Member=Component C5 1uF
+Added Member To Class: ClassName=MCU Member=Component C? 100nF
+Added Member To Class: ClassName=MCU Member=Component D? SMAJ12A
+Added Member To Class: ClassName=Power Member=Component D? ESD122DMX
+Added Member To Class: ClassName=SIM7080G Member=Component D? BZA462A
+Add Class Member: Failed to add class member : Component R7 1.18k
+Added Member To Class: ClassName=Power Member=Component R8 51k
+Added Member To Class: ClassName=Power Member=Component R9 51k
+Added Member To Class: ClassName=MCU Member=Component R11 1.13k

@@ -1,0 +1,32 @@
+Add component: Footprint Not Found CAP_0805
+Add component: Footprint Not Found CAP_0805
+Add component: Footprint Not Found 0603_R
+Add component: Footprint Not Found 0603_R
+Add component: Footprint Not Found 0603_R
+Add Pin To Net: Unknown Pin: Pin C21-1
+Add Pin To Net: Unknown Pin: Pin C21-2
+Add Pin To Net: Unknown Pin: Pin C27-1
+Add Pin To Net: Unknown Pin: Pin C27-2
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R14-2
+Add Pin To Net: Unknown Pin: Pin R27-1
+Add Pin To Net: Unknown Pin: Pin R27-2
+Add Pin To Net: Unknown Pin: Pin R28-1
+Add Pin To Net: Unknown Pin: Pin R28-2
+Added Pin To Net: NetName=NetU2_19 Pin=U2-19
+Added Pin To Net: NetName=NetU2_19 Pin=U5-20
+Added Net: Name=NetU2_19
+Added Pin To Net: NetName=NetU2_20 Pin=U2-20
+Added Pin To Net: NetName=NetU2_20 Pin=U5-18
+Added Net: Name=NetU2_20
+Added Pin To Net: NetName=NetU2_22 Pin=U2-22
+Added Pin To Net: NetName=NetU2_22 Pin=U5-16
+Added Net: Name=NetU2_22
+Added Pin To Net: NetName=NetU2_25 Pin=U2-25
+Added Pin To Net: NetName=NetU2_25 Pin=U5-15
+Added Net: Name=NetU2_25
+Add Class Member: Failed to add class member : Component C21 4.7uf
+Add Class Member: Failed to add class member : Component C27 22uf
+Add Class Member: Failed to add class member : Component R14 1.5k
+Add Class Member: Failed to add class member : Component R27 1.18k
+Add Class Member: Failed to add class member : Component R28 1.18k

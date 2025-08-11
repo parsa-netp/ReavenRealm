@@ -1,0 +1,54 @@
+Added Component: Designator=D1(EATON_0603ESDA-MLP)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bonding"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.38mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "9/21/2022"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603ESDA-MLP1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\0603ESDA-MLP1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "9/21/2022"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "EATON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0603ESDA-MLP1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "0603, 2-Leads, Body 1.1mm L X 0.53mm W X 0.44mm H body, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "0.05pF 8kV Bidirectional ESD Voltage Suppressor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603ESDA-MLP1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "8kV"; VariantName = "[No Variations]"
+Added Component: Designator=D8(EATON_0603ESDA-MLP)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bonding"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.38mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "9/21/2022"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603ESDA-MLP1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\0603ESDA-MLP1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "9/21/2022"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "EATON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0603ESDA-MLP1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "0603, 2-Leads, Body 1.1mm L X 0.53mm W X 0.44mm H body, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "0.05pF 8kV Bidirectional ESD Voltage Suppressor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603ESDA-MLP1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "8kV"; VariantName = "[No Variations]"
+Add component: Footprint Not Found 0603_R
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=USB.Data.+ Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D8-1
+Added Pin To Net: NetName=USB.Data.- Pin=D8-2
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Added Member To Class: ClassName=Power Member=Component D1 0603ESDA-MLP1
+Added Member To Class: ClassName=Power Member=Component D8 0603ESDA-MLP1
+Add Class Member: Failed to add class member : Component R1 1.5k

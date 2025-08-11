@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=U4 NewDesignator=U5
+Change Component Designator: OldDesignator=U5 NewDesignator=U6
+Change Component Designator: OldDesignator=U6 NewDesignator=U4
+Add component: Footprint Not Found 0603_R
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Change Net Name : Old Net Name=NetU4_1 New Net Name=NetU5_1
+Change Net Name : Old Net Name=NetU4_2 New Net Name=NetU5_2
+Change Net Name : Old Net Name=NetU4_3 New Net Name=NetU5_3
+Change Net Name : Old Net Name=NetU4_4 New Net Name=NetU5_4
+Change Net Name : Old Net Name=NetU4_5 New Net Name=NetU5_5
+Change Net Name : Old Net Name=NetU4_6 New Net Name=NetU5_6
+Change Net Name : Old Net Name=NetU4_7 New Net Name=NetU5_7
+Change Net Name : Old Net Name=NetU5_17 New Net Name=NetU6_17
+Add Class Member: Failed to add class member : Component R1 1.5k

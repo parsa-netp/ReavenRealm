@@ -1,0 +1,155 @@
+Removed Member From Class: ClassName=MCU Member=C?
+Change Component Footprint: Designator=U2 Old Footprint=ESP32.S3.WROOM.1U New Footprint=IC.ESP32.S3.WROOM.1U
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=LD? NewDesignator=LD2
+Change Component Designator: OldDesignator=LD? NewDesignator=LD3
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=T? NewDesignator=T1
+Change Component Designator: OldDesignator=T? NewDesignator=T2
+Change Component Designator: OldDesignator=T? NewDesignator=T3
+Add component: Footprint Not Found CAP_0805
+Add component: Footprint Not Found CAP_0805
+Add component: Footprint Not Found 0603_R
+Add component: Footprint Not Found 0603_R
+Add component: Footprint Not Found 0603_R
+Added Component: Designator=U4(IC.SIM7080G)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SIM7080G/SIMCom/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "SIMCom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SIM7080G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SIM7080G/SIMCom/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C21-1
+Add Pin To Net: Unknown Pin: Pin C21-2
+Add Pin To Net: Unknown Pin: Pin C27-1
+Add Pin To Net: Unknown Pin: Pin C27-2
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R14-2
+Add Pin To Net: Unknown Pin: Pin R27-1
+Add Pin To Net: Unknown Pin: Pin R27-2
+Add Pin To Net: Unknown Pin: Pin R28-1
+Add Pin To Net: Unknown Pin: Pin R28-2
+Added Pin To Net: NetName=GND Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U4-13
+Added Pin To Net: NetName=SIMData Pin=U4-15
+Added Pin To Net: NetName=SIMCLK Pin=U4-16
+Added Pin To Net: NetName=SIMRST Pin=U4-17
+Added Pin To Net: NetName=SIMVDD Pin=U4-18
+Added Pin To Net: NetName=GND Pin=U4-19
+Added Pin To Net: NetName=GND Pin=U4-21
+Added Pin To Net: NetName=GND Pin=U4-27
+Added Pin To Net: NetName=GND Pin=U4-30
+Added Pin To Net: NetName=GND Pin=U4-31
+Added Pin To Net: NetName=RF_ANT Pin=U4-32
+Added Pin To Net: NetName=GND Pin=U4-33
+Added Pin To Net: NetName=+4V4 Pin=U4-34
+Added Pin To Net: NetName=+4V4 Pin=U4-35
+Added Pin To Net: NetName=GND Pin=U4-36
+Added Pin To Net: NetName=GND Pin=U4-37
+Added Pin To Net: NetName=PWRKEY Pin=U4-39
+Added Pin To Net: NetName=NETLIGHT Pin=U4-41
+Added Pin To Net: NetName=STATUS Pin=U4-42
+Added Pin To Net: NetName=GND Pin=U4-45
+Added Pin To Net: NetName=GND Pin=U4-63
+Added Pin To Net: NetName=GND Pin=U4-66
+Added Pin To Net: NetName=GND Pin=U4-67
+Added Pin To Net: NetName=GNSS_ANT Pin=U4-68
+Added Pin To Net: NetName=GND Pin=U4-69
+Added Pin To Net: NetName=GND Pin=U4-70
+Added Pin To Net: NetName=GND Pin=U4-71
+Added Pin To Net: NetName=GND Pin=U4-72
+Added Pin To Net: NetName=GND Pin=U4-73
+Added Pin To Net: NetName=GND Pin=U4-74
+Added Pin To Net: NetName=GND Pin=U4-75
+Added Pin To Net: NetName=GND Pin=U4-76
+Added Pin To Net: NetName=GND Pin=U4-77
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC13_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC13_2
+Change Net Name : Old Net Name=NetLD?_1 New Net Name=NetLD3_1
+Change Net Name : Old Net Name=NetLD?_2 New Net Name=NetLD2_2
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR12_2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=C12-1
+Added Pin To Net: NetName=NetC10_1 Pin=R16-2
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=D3-2
+Added Pin To Net: NetName=NetC10_2 Pin=J2-1
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetLD2_1 Pin=LD2-1
+Added Pin To Net: NetName=NetLD2_1 Pin=T2-3
+Added Net: Name=NetLD2_1
+Added Pin To Net: NetName=NetLD3_2 Pin=LD3-2
+Added Pin To Net: NetName=NetLD3_2 Pin=R8-1
+Added Net: Name=NetLD3_2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=U2-30
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=R10-1
+Added Pin To Net: NetName=NetR9_2 Pin=T1-1
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=R13-1
+Added Pin To Net: NetName=NetR11_2 Pin=T2-1
+Added Net: Name=NetR11_2
+Added Member To Class: ClassName=MCU Member=Component C4 100nF
+Added Member To Class: ClassName=MCU Member=Component C5 1uF
+Added Member To Class: ClassName=SIM7080G Member=Component C6 100nF
+Added Member To Class: ClassName=SIM7080G Member=Component C8 1uF
+Added Member To Class: ClassName=SIM7080G Member=Component C9 100uF
+Added Member To Class: ClassName=SIM7080G Member=Component C10 100nF
+Added Member To Class: ClassName=SIM7080G Member=Component C11 100nF
+Added Member To Class: ClassName=SIM7080G Member=Component C12 100nF
+Added Member To Class: ClassName=SIM7080G Member=Component C13 100nF
+Added Member To Class: ClassName=SIM7080G Member=Component C14 100nF
+Added Member To Class: ClassName=SIM7080G Member=Component C15 100nF
+Add Class Member: Failed to add class member : Component C21 4.7uf
+Add Class Member: Failed to add class member : Component C27 22uf
+Added Member To Class: ClassName=SIM7080G Member=Component D2 SMAJ5.0CA
+Added Member To Class: ClassName=SIM7080G Member=Component D3 SMAJ5.0CA
+Added Member To Class: ClassName=SIM7080G Member=Component D4 SMAJ5.0CA
+Added Member To Class: ClassName=SIM7080G Member=Component J2 U.FL
+Added Member To Class: ClassName=SIM7080G Member=Component J4 U.FL
+Added Member To Class: ClassName=SIM7080G Member=Component LD2 Red
+Added Member To Class: ClassName=SIM7080G Member=Component R7 4.3k
+Added Member To Class: ClassName=SIM7080G Member=Component R9 4.3k
+Added Member To Class: ClassName=SIM7080G Member=Component R10 43k
+Added Member To Class: ClassName=SIM7080G Member=Component R11 4.3k
+Added Member To Class: ClassName=SIM7080G Member=Component R12 4.3k
+Added Member To Class: ClassName=SIM7080G Member=Component R13 43k
+Add Class Member: Failed to add class member : Component R14 1.5k
+Added Member To Class: ClassName=SIM7080G Member=Component R15 43k
+Added Member To Class: ClassName=SIM7080G Member=Component R16 43k
+Added Member To Class: ClassName=SIM7080G Member=Component R17 43k
+Add Class Member: Failed to add class member : Component R27 1.18k
+Add Class Member: Failed to add class member : Component R28 1.18k
+Added Member To Class: ClassName=SIM7080G Member=Component T1 BC817
+Added Member To Class: ClassName=SIM7080G Member=Component T2 BC817
+Added Member To Class: ClassName=SIM7080G Member=Component U4 IC.SIM7080G

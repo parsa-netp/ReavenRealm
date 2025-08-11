@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=U2 Old Footprint=AMS1117-3.3 New Footprint=IC.AMS1117-3.3
+Add component: Footprint Not Found 0603_R
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Added Pin To Net: NetName=+3V3 Pin=U2-4
+Add Class Member: Failed to add class member : Component R1 1.5k
