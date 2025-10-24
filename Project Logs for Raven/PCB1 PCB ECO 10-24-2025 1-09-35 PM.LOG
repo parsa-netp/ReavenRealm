@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=USB.Data.+ Pin=D1-2
+Removed Pin From Net: NetName=USB.Data.- Pin=D2-2
+Removed Pin From Net: NetName=USB.Data.+ Pin=R10-2
+Removed Pin From Net: NetName=USB.Data.- Pin=R11-2
+Change Component Comment : Designator=U5 Old Comment=TXS0108EPWR New Comment=IC.TXS0108EPWR
+Added Pin To Net: NetName=NetU3_21 Pin=U3-21
+Added Pin To Net: NetName=NetU3_21 Pin=U5-4
+Added Net: Name=NetU3_21
+Added Pin To Net: NetName=USB.Data_N Pin=D2-2
+Added Pin To Net: NetName=USB.Data_N Pin=R11-2
+Added Net: Name=USB.Data_N
+Added Pin To Net: NetName=USB.Data_P Pin=D1-2
+Added Pin To Net: NetName=USB.Data_P Pin=R10-2
+Added Net: Name=USB.Data_P
+Added Differential Pair: Name=USB.Data

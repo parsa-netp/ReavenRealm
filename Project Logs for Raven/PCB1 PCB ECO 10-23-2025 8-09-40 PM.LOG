@@ -1,0 +1,53 @@
+Removed Member From Class: ClassName=MCU Member=U4
+Change Component Designator: OldDesignator=C1 NewDesignator=C4
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Change Component Designator: OldDesignator=C4 NewDesignator=C3
+Change Component Designator: OldDesignator=C12 NewDesignator=C15
+Change Component Designator: OldDesignator=C13 NewDesignator=C16
+Change Component Designator: OldDesignator=C14 NewDesignator=C12
+Change Component Designator: OldDesignator=C15 NewDesignator=C13
+Change Component Designator: OldDesignator=C16 NewDesignator=C14
+Change Component Designator: OldDesignator=D5 NewDesignator=D7
+Change Component Designator: OldDesignator=D6 NewDesignator=D5
+Change Component Designator: OldDesignator=D7 NewDesignator=D6
+Change Component Designator: OldDesignator=R14 NewDesignator=R22
+Change Component Designator: OldDesignator=R15 NewDesignator=R23
+Change Component Designator: OldDesignator=R16 NewDesignator=R14
+Change Component Designator: OldDesignator=R17 NewDesignator=R15
+Change Component Designator: OldDesignator=R18 NewDesignator=R16
+Change Component Designator: OldDesignator=R19 NewDesignator=R17
+Change Component Designator: OldDesignator=R20 NewDesignator=R18
+Change Component Designator: OldDesignator=R21 NewDesignator=R20
+Change Component Designator: OldDesignator=R22 NewDesignator=R21
+Change Component Designator: OldDesignator=R23 NewDesignator=R19
+Change Component Designator: OldDesignator=T1 NewDesignator=T3
+Change Component Designator: OldDesignator=T2 NewDesignator=T1
+Change Component Designator: OldDesignator=T3 NewDesignator=T2
+Change Component Designator: OldDesignator=U5 NewDesignator=U4
+Change Component Designator: OldDesignator=U6 NewDesignator=U5
+Added Component: Designator=U6(IC.SX1262IMLTRT)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Semtech Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SX1262IMLTRT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VFQFN-24 Semtech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SX1262IMLTRT/Semtech%20Corporation/view-part/2781045/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetC14_1 New Net Name=NetC12_1
+Change Net Name : Old Net Name=NetC14_2 New Net Name=NetC12_2
+Change Net Name : Old Net Name=NetR14_1 New Net Name=NetR22_1
+Change Net Name : Old Net Name=NetR14_2 New Net Name=NetR22_2
+Change Net Name : Old Net Name=NetR16_2 New Net Name=NetR14_2
+Change Net Name : Old Net Name=NetR17_2 New Net Name=NetR15_2
+Change Net Name : Old Net Name=NetR21_1 New Net Name=NetR20_1
+Change Net Name : Old Net Name=NetR22_1 New Net Name=NetR21_1
+Change Net Name : Old Net Name=NetU5_1 New Net Name=NetU4_1
+Change Net Name : Old Net Name=NetU5_2 New Net Name=NetU4_2
+Change Net Name : Old Net Name=NetU5_3 New Net Name=NetU4_3
+Change Net Name : Old Net Name=NetU5_4 New Net Name=NetU4_4
+Change Net Name : Old Net Name=NetU5_5 New Net Name=NetU4_5
+Change Net Name : Old Net Name=NetU5_6 New Net Name=NetU4_6
+Change Net Name : Old Net Name=NetU5_7 New Net Name=NetU4_7
+Change Net Name : Old Net Name=NetU6_17 New Net Name=NetU5_17
+Added Class: Name=LoRa

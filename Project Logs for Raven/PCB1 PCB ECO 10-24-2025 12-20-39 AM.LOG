@@ -1,0 +1,51 @@
+Added Component: Designator=C23(CAPC1608X90N)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "7/1/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\CC0603_X5R_TDK_CGA(Up to 75V).pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "7/1/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CGA3E2X5R1E104M080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "SMD Multilayer Chip Ceramic Capacitor (Automotive Grade)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0603_100NF_25V_20%_X5R_TDK_CGA3E2X5R1E104M080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=PB1(PB_C&K_KSS221GLFS)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "1.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "12/2/2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Push Button"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\PB_C&K_KSS221GLFS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "12/2/2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "KSS221GLFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Body 7.0x3.5mm, Surface Mount Subminiature Tact Side Actuated Switch, C&K KSS Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "32VDC 50mA SPST-NO Surface Mount Subminiature Tact Momentary Side Actuated Pushbutton Switch, Operating Force 2N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PB_C&K_KSS221GLFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense Comment"; Value = "Non-washable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "None"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=GND Pin=PB1-1
+Added Pin To Net: NetName=Button Pin=C23-1
+Added Pin To Net: NetName=Button Pin=PB1-2
+Added Pin To Net: NetName=Button Pin=U3-4
+Added Net: Name=Button
+Added Member To Class: ClassName=MCU Member=Component C23 100nF
+Added Member To Class: ClassName=MCU Member=Component PB1 Push Button

@@ -1,0 +1,81 @@
+Removed Pin From Net: NetName=GND Pin=R20-2
+Removed Pin From Net: NetName=GND Pin=R21-2
+Removed Pin From Net: NetName=NetU4_4 Pin=U5-1
+Removed Pin From Net: NetName=+1V8 Pin=U5-2
+Removed Pin From Net: NetName=NetU4_5 Pin=U5-3
+Removed Pin From Net: NetName=NetU4_6 Pin=U5-4
+Removed Pin From Net: NetName=NetU4_7 Pin=U5-5
+Removed Pin From Net: NetName=NetU4_3 Pin=U5-6
+Removed Pin From Net: NetName=NetU4_2 Pin=U5-7
+Removed Pin From Net: NetName=NetU4_1 Pin=U5-8
+Removed Pin From Net: NetName=+1V8 Pin=U5-10
+Removed Pin From Net: NetName=NetU3_17 Pin=U5-13
+Removed Pin From Net: NetName=NetU3_18 Pin=U5-14
+Removed Pin From Net: NetName=NetU3_25 Pin=U5-15
+Removed Pin From Net: NetName=NetU3_22 Pin=U5-16
+Removed Pin From Net: NetName=NetU3_20 Pin=U5-18
+Removed Pin From Net: NetName=+3V3 Pin=U5-19
+Removed Pin From Net: NetName=NetU3_19 Pin=U5-20
+Removed Pin From Net: NetName=GND Pin=U5-21
+Removed Pin From Net: NetName=GND Pin=U5-21_1
+Removed Pin From Net: NetName=GND Pin=U5-21_2
+Removed Pin From Net: NetName=GND Pin=U5-21_3
+Removed Pin From Net: NetName=GND Pin=U5-21_4
+Removed Member From Class: ClassName=SIM7080G Member=R20
+Removed Member From Class: ClassName=SIM7080G Member=R21
+Change Component Footprint: Designator=U5 Old Footprint=IC.TXB0108RGYR New Footprint=IC.TXS0108EPWR
+Change Component Comment : Designator=U5 Old Comment=IC.TXB0108RGYR New Comment=TXS0108EPWR
+Change component parameters: Designator = "U5" ("U5"); Footprint = "IC.TXB0108RGYR"; UniqueID = "\PWEDODCC" ("\PWEDODCC")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TXS0108EPWR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TXS0108EPWR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TSSOP-20 Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TXS0108EPWR/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TXS0108EPWR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C22(CAPC1608X90N)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "7/1/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\CC0603_X5R_TDK_CGA(Up to 75V).pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "7/1/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CGA3E2X5R1E104M080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "SMD Multilayer Chip Ceramic Capacitor (Automotive Grade)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0603_100NF_25V_20%_X5R_TDK_CGA3E2X5R1E104M080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=+1V8 Pin=C22-2
+Added Pin To Net: NetName=NetU3_19 Pin=U5-1
+Added Pin To Net: NetName=+3V3 Pin=U5-2
+Added Pin To Net: NetName=NetU3_20 Pin=U5-3
+Added Pin To Net: NetName=NetU3_22 Pin=U5-5
+Added Pin To Net: NetName=NetU3_25 Pin=U5-6
+Added Pin To Net: NetName=NetU3_18 Pin=U5-7
+Added Pin To Net: NetName=NetU3_17 Pin=U5-8
+Added Pin To Net: NetName=+3V3 Pin=U5-10
+Added Pin To Net: NetName=NetU4_1 Pin=U5-13
+Added Pin To Net: NetName=NetU4_2 Pin=U5-14
+Added Pin To Net: NetName=NetU4_3 Pin=U5-15
+Added Pin To Net: NetName=NetU4_7 Pin=U5-16
+Added Pin To Net: NetName=NetU4_6 Pin=U5-17
+Added Pin To Net: NetName=NetU4_5 Pin=U5-18
+Added Pin To Net: NetName=+1V8 Pin=U5-19
+Added Pin To Net: NetName=NetU4_4 Pin=U5-20
+Added Pin To Net: NetName=NetU5_4 Pin=U5-4
+Added Net: Name=NetU5_4
+Added Member To Class: ClassName=SIM7080G Member=Component C22 100nF
+Added Rule: Name=Schematic Supply Nets_5

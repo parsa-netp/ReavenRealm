@@ -1,3 +1,4 @@
-Record=TopLevelDocument|FileName=MCU.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=MCU.SchDoc|FileName=Power.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=MCU.SchDoc|FileName=SIM7080G.SchDoc|SheetNumber=3
+Record=TopLevelDocument|FileName=LoRa.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=LoRa.SchDoc|FileName=MCU.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=LoRa.SchDoc|FileName=Power.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=LoRa.SchDoc|FileName=SIM7080G.SchDoc|SheetNumber=3

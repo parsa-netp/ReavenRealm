@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=Power Member=C21
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=+4V4 Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-15
